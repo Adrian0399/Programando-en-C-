@@ -1,0 +1,10 @@
+C:\Users\adolvera\source\repos\Reflexion\Generador\bin\Debug\netstandard2.0\Generador.deps.json
+C:\Users\adolvera\source\repos\Reflexion\Generador\bin\Debug\netstandard2.0\Generador.dll
+C:\Users\adolvera\source\repos\Reflexion\Generador\bin\Debug\netstandard2.0\Generador.pdb
+C:\Users\adolvera\source\repos\Reflexion\Generador\obj\Debug\netstandard2.0\Generador.csproj.AssemblyReference.cache
+C:\Users\adolvera\source\repos\Reflexion\Generador\obj\Debug\netstandard2.0\Generador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adolvera\source\repos\Reflexion\Generador\obj\Debug\netstandard2.0\Generador.AssemblyInfoInputs.cache
+C:\Users\adolvera\source\repos\Reflexion\Generador\obj\Debug\netstandard2.0\Generador.AssemblyInfo.cs
+C:\Users\adolvera\source\repos\Reflexion\Generador\obj\Debug\netstandard2.0\Generador.csproj.CoreCompileInputs.cache
+C:\Users\adolvera\source\repos\Reflexion\Generador\obj\Debug\netstandard2.0\Generador.dll
+C:\Users\adolvera\source\repos\Reflexion\Generador\obj\Debug\netstandard2.0\Generador.pdb

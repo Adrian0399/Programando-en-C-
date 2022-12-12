@@ -1,0 +1,15 @@
+C:\Users\adolvera\source\repos\MasAcercaDeTiposDeDatos\MasAcercaDeTiposDeDatos\bin\Debug\net6.0\MasAcercaDeTiposDeDatos.exe
+C:\Users\adolvera\source\repos\MasAcercaDeTiposDeDatos\MasAcercaDeTiposDeDatos\bin\Debug\net6.0\MasAcercaDeTiposDeDatos.deps.json
+C:\Users\adolvera\source\repos\MasAcercaDeTiposDeDatos\MasAcercaDeTiposDeDatos\bin\Debug\net6.0\MasAcercaDeTiposDeDatos.runtimeconfig.json
+C:\Users\adolvera\source\repos\MasAcercaDeTiposDeDatos\MasAcercaDeTiposDeDatos\bin\Debug\net6.0\MasAcercaDeTiposDeDatos.dll
+C:\Users\adolvera\source\repos\MasAcercaDeTiposDeDatos\MasAcercaDeTiposDeDatos\bin\Debug\net6.0\MasAcercaDeTiposDeDatos.pdb
+C:\Users\adolvera\source\repos\MasAcercaDeTiposDeDatos\MasAcercaDeTiposDeDatos\obj\Debug\net6.0\MasAcercaDeTiposDeDatos.csproj.AssemblyReference.cache
+C:\Users\adolvera\source\repos\MasAcercaDeTiposDeDatos\MasAcercaDeTiposDeDatos\obj\Debug\net6.0\MasAcercaDeTiposDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adolvera\source\repos\MasAcercaDeTiposDeDatos\MasAcercaDeTiposDeDatos\obj\Debug\net6.0\MasAcercaDeTiposDeDatos.AssemblyInfoInputs.cache
+C:\Users\adolvera\source\repos\MasAcercaDeTiposDeDatos\MasAcercaDeTiposDeDatos\obj\Debug\net6.0\MasAcercaDeTiposDeDatos.AssemblyInfo.cs
+C:\Users\adolvera\source\repos\MasAcercaDeTiposDeDatos\MasAcercaDeTiposDeDatos\obj\Debug\net6.0\MasAcercaDeTiposDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\adolvera\source\repos\MasAcercaDeTiposDeDatos\MasAcercaDeTiposDeDatos\obj\Debug\net6.0\MasAcercaDeTiposDeDatos.dll
+C:\Users\adolvera\source\repos\MasAcercaDeTiposDeDatos\MasAcercaDeTiposDeDatos\obj\Debug\net6.0\refint\MasAcercaDeTiposDeDatos.dll
+C:\Users\adolvera\source\repos\MasAcercaDeTiposDeDatos\MasAcercaDeTiposDeDatos\obj\Debug\net6.0\MasAcercaDeTiposDeDatos.pdb
+C:\Users\adolvera\source\repos\MasAcercaDeTiposDeDatos\MasAcercaDeTiposDeDatos\obj\Debug\net6.0\MasAcercaDeTiposDeDatos.genruntimeconfig.cache
+C:\Users\adolvera\source\repos\MasAcercaDeTiposDeDatos\MasAcercaDeTiposDeDatos\obj\Debug\net6.0\ref\MasAcercaDeTiposDeDatos.dll

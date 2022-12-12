@@ -1,0 +1,15 @@
+C:\Users\adolvera\source\repos\ManejandoErrores\ManejandoErrores\bin\Debug\net6.0\ManejandoErrores.exe
+C:\Users\adolvera\source\repos\ManejandoErrores\ManejandoErrores\bin\Debug\net6.0\ManejandoErrores.deps.json
+C:\Users\adolvera\source\repos\ManejandoErrores\ManejandoErrores\bin\Debug\net6.0\ManejandoErrores.runtimeconfig.json
+C:\Users\adolvera\source\repos\ManejandoErrores\ManejandoErrores\bin\Debug\net6.0\ManejandoErrores.dll
+C:\Users\adolvera\source\repos\ManejandoErrores\ManejandoErrores\bin\Debug\net6.0\ManejandoErrores.pdb
+C:\Users\adolvera\source\repos\ManejandoErrores\ManejandoErrores\obj\Debug\net6.0\ManejandoErrores.csproj.AssemblyReference.cache
+C:\Users\adolvera\source\repos\ManejandoErrores\ManejandoErrores\obj\Debug\net6.0\ManejandoErrores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adolvera\source\repos\ManejandoErrores\ManejandoErrores\obj\Debug\net6.0\ManejandoErrores.AssemblyInfoInputs.cache
+C:\Users\adolvera\source\repos\ManejandoErrores\ManejandoErrores\obj\Debug\net6.0\ManejandoErrores.AssemblyInfo.cs
+C:\Users\adolvera\source\repos\ManejandoErrores\ManejandoErrores\obj\Debug\net6.0\ManejandoErrores.csproj.CoreCompileInputs.cache
+C:\Users\adolvera\source\repos\ManejandoErrores\ManejandoErrores\obj\Debug\net6.0\ManejandoErrores.dll
+C:\Users\adolvera\source\repos\ManejandoErrores\ManejandoErrores\obj\Debug\net6.0\refint\ManejandoErrores.dll
+C:\Users\adolvera\source\repos\ManejandoErrores\ManejandoErrores\obj\Debug\net6.0\ManejandoErrores.pdb
+C:\Users\adolvera\source\repos\ManejandoErrores\ManejandoErrores\obj\Debug\net6.0\ManejandoErrores.genruntimeconfig.cache
+C:\Users\adolvera\source\repos\ManejandoErrores\ManejandoErrores\obj\Debug\net6.0\ref\ManejandoErrores.dll

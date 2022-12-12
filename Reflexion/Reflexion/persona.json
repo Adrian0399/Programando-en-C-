@@ -1,0 +1,7 @@
+{
+  "nombre": "Adrian",
+  "edad": 999,
+  "direcciones": [
+    { "calle": "Arandano #269" }
+  ]
+}

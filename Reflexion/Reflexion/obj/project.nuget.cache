@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RBABVwmG+kxloIDksh7PSTPkoWaueErM/QnP3t6it5G9LCB0Krc//5HOeFX/lwYjOn3AgvjxStU28/lZWZZBqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adolvera\\source\\repos\\Reflexion\\Reflexion\\Reflexion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adolvera\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

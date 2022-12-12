@@ -1,0 +1,17 @@
+C:\Users\adolvera\source\repos\Reflexion\Reflexion\bin\Debug\net6.0\Reflexion.exe
+C:\Users\adolvera\source\repos\Reflexion\Reflexion\bin\Debug\net6.0\Reflexion.deps.json
+C:\Users\adolvera\source\repos\Reflexion\Reflexion\bin\Debug\net6.0\Reflexion.runtimeconfig.json
+C:\Users\adolvera\source\repos\Reflexion\Reflexion\bin\Debug\net6.0\Reflexion.dll
+C:\Users\adolvera\source\repos\Reflexion\Reflexion\bin\Debug\net6.0\Reflexion.pdb
+C:\Users\adolvera\source\repos\Reflexion\Reflexion\obj\Debug\net6.0\Reflexion.csproj.AssemblyReference.cache
+C:\Users\adolvera\source\repos\Reflexion\Reflexion\obj\Debug\net6.0\Reflexion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adolvera\source\repos\Reflexion\Reflexion\obj\Debug\net6.0\Reflexion.AssemblyInfoInputs.cache
+C:\Users\adolvera\source\repos\Reflexion\Reflexion\obj\Debug\net6.0\Reflexion.AssemblyInfo.cs
+C:\Users\adolvera\source\repos\Reflexion\Reflexion\obj\Debug\net6.0\Reflexion.csproj.CoreCompileInputs.cache
+C:\Users\adolvera\source\repos\Reflexion\Reflexion\obj\Debug\net6.0\Reflexion.dll
+C:\Users\adolvera\source\repos\Reflexion\Reflexion\obj\Debug\net6.0\refint\Reflexion.dll
+C:\Users\adolvera\source\repos\Reflexion\Reflexion\obj\Debug\net6.0\Reflexion.pdb
+C:\Users\adolvera\source\repos\Reflexion\Reflexion\obj\Debug\net6.0\Reflexion.genruntimeconfig.cache
+C:\Users\adolvera\source\repos\Reflexion\Reflexion\obj\Debug\net6.0\ref\Reflexion.dll
+C:\Users\adolvera\source\repos\Reflexion\Reflexion\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\adolvera\source\repos\Reflexion\Reflexion\obj\Debug\net6.0\Reflexion.csproj.CopyComplete

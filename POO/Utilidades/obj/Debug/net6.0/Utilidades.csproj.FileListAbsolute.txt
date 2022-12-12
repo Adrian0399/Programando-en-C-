@@ -1,0 +1,12 @@
+C:\Users\adolvera\source\repos\POO\Utilidades\bin\Debug\net6.0\Utilidades.deps.json
+C:\Users\adolvera\source\repos\POO\Utilidades\bin\Debug\net6.0\Utilidades.dll
+C:\Users\adolvera\source\repos\POO\Utilidades\bin\Debug\net6.0\Utilidades.pdb
+C:\Users\adolvera\source\repos\POO\Utilidades\obj\Debug\net6.0\Utilidades.csproj.AssemblyReference.cache
+C:\Users\adolvera\source\repos\POO\Utilidades\obj\Debug\net6.0\Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adolvera\source\repos\POO\Utilidades\obj\Debug\net6.0\Utilidades.AssemblyInfoInputs.cache
+C:\Users\adolvera\source\repos\POO\Utilidades\obj\Debug\net6.0\Utilidades.AssemblyInfo.cs
+C:\Users\adolvera\source\repos\POO\Utilidades\obj\Debug\net6.0\Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\adolvera\source\repos\POO\Utilidades\obj\Debug\net6.0\Utilidades.dll
+C:\Users\adolvera\source\repos\POO\Utilidades\obj\Debug\net6.0\refint\Utilidades.dll
+C:\Users\adolvera\source\repos\POO\Utilidades\obj\Debug\net6.0\Utilidades.pdb
+C:\Users\adolvera\source\repos\POO\Utilidades\obj\Debug\net6.0\ref\Utilidades.dll

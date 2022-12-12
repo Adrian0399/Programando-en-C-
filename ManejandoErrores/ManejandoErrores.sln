@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManejandoErrores", "ManejandoErrores\ManejandoErrores.csproj", "{B749C5FD-AF42-4462-A96B-5F66435D705D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B749C5FD-AF42-4462-A96B-5F66435D705D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B749C5FD-AF42-4462-A96B-5F66435D705D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B749C5FD-AF42-4462-A96B-5F66435D705D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B749C5FD-AF42-4462-A96B-5F66435D705D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D53EA940-2C01-4087-A89E-1E88F9B21892}
+	EndGlobalSection
+EndGlobal

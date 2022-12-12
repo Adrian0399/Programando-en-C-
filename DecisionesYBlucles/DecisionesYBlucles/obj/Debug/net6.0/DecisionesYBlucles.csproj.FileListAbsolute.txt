@@ -1,0 +1,15 @@
+C:\Users\adolvera\source\repos\DecisionesYBlucles\DecisionesYBlucles\bin\Debug\net6.0\DecisionesYBlucles.exe
+C:\Users\adolvera\source\repos\DecisionesYBlucles\DecisionesYBlucles\bin\Debug\net6.0\DecisionesYBlucles.deps.json
+C:\Users\adolvera\source\repos\DecisionesYBlucles\DecisionesYBlucles\bin\Debug\net6.0\DecisionesYBlucles.runtimeconfig.json
+C:\Users\adolvera\source\repos\DecisionesYBlucles\DecisionesYBlucles\bin\Debug\net6.0\DecisionesYBlucles.dll
+C:\Users\adolvera\source\repos\DecisionesYBlucles\DecisionesYBlucles\bin\Debug\net6.0\DecisionesYBlucles.pdb
+C:\Users\adolvera\source\repos\DecisionesYBlucles\DecisionesYBlucles\obj\Debug\net6.0\DecisionesYBlucles.csproj.AssemblyReference.cache
+C:\Users\adolvera\source\repos\DecisionesYBlucles\DecisionesYBlucles\obj\Debug\net6.0\DecisionesYBlucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adolvera\source\repos\DecisionesYBlucles\DecisionesYBlucles\obj\Debug\net6.0\DecisionesYBlucles.AssemblyInfoInputs.cache
+C:\Users\adolvera\source\repos\DecisionesYBlucles\DecisionesYBlucles\obj\Debug\net6.0\DecisionesYBlucles.AssemblyInfo.cs
+C:\Users\adolvera\source\repos\DecisionesYBlucles\DecisionesYBlucles\obj\Debug\net6.0\DecisionesYBlucles.csproj.CoreCompileInputs.cache
+C:\Users\adolvera\source\repos\DecisionesYBlucles\DecisionesYBlucles\obj\Debug\net6.0\DecisionesYBlucles.dll
+C:\Users\adolvera\source\repos\DecisionesYBlucles\DecisionesYBlucles\obj\Debug\net6.0\refint\DecisionesYBlucles.dll
+C:\Users\adolvera\source\repos\DecisionesYBlucles\DecisionesYBlucles\obj\Debug\net6.0\DecisionesYBlucles.pdb
+C:\Users\adolvera\source\repos\DecisionesYBlucles\DecisionesYBlucles\obj\Debug\net6.0\DecisionesYBlucles.genruntimeconfig.cache
+C:\Users\adolvera\source\repos\DecisionesYBlucles\DecisionesYBlucles\obj\Debug\net6.0\ref\DecisionesYBlucles.dll

@@ -1,0 +1,15 @@
+C:\Users\adolvera\source\repos\GenericosYColecciones\GenericosYColecciones\bin\Debug\net6.0\GenericosYColecciones.exe
+C:\Users\adolvera\source\repos\GenericosYColecciones\GenericosYColecciones\bin\Debug\net6.0\GenericosYColecciones.deps.json
+C:\Users\adolvera\source\repos\GenericosYColecciones\GenericosYColecciones\bin\Debug\net6.0\GenericosYColecciones.runtimeconfig.json
+C:\Users\adolvera\source\repos\GenericosYColecciones\GenericosYColecciones\bin\Debug\net6.0\GenericosYColecciones.dll
+C:\Users\adolvera\source\repos\GenericosYColecciones\GenericosYColecciones\bin\Debug\net6.0\GenericosYColecciones.pdb
+C:\Users\adolvera\source\repos\GenericosYColecciones\GenericosYColecciones\obj\Debug\net6.0\GenericosYColecciones.csproj.AssemblyReference.cache
+C:\Users\adolvera\source\repos\GenericosYColecciones\GenericosYColecciones\obj\Debug\net6.0\GenericosYColecciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adolvera\source\repos\GenericosYColecciones\GenericosYColecciones\obj\Debug\net6.0\GenericosYColecciones.AssemblyInfoInputs.cache
+C:\Users\adolvera\source\repos\GenericosYColecciones\GenericosYColecciones\obj\Debug\net6.0\GenericosYColecciones.AssemblyInfo.cs
+C:\Users\adolvera\source\repos\GenericosYColecciones\GenericosYColecciones\obj\Debug\net6.0\GenericosYColecciones.csproj.CoreCompileInputs.cache
+C:\Users\adolvera\source\repos\GenericosYColecciones\GenericosYColecciones\obj\Debug\net6.0\GenericosYColecciones.dll
+C:\Users\adolvera\source\repos\GenericosYColecciones\GenericosYColecciones\obj\Debug\net6.0\refint\GenericosYColecciones.dll
+C:\Users\adolvera\source\repos\GenericosYColecciones\GenericosYColecciones\obj\Debug\net6.0\GenericosYColecciones.pdb
+C:\Users\adolvera\source\repos\GenericosYColecciones\GenericosYColecciones\obj\Debug\net6.0\GenericosYColecciones.genruntimeconfig.cache
+C:\Users\adolvera\source\repos\GenericosYColecciones\GenericosYColecciones\obj\Debug\net6.0\ref\GenericosYColecciones.dll
