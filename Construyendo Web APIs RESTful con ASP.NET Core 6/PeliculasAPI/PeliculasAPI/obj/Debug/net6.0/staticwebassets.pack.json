@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\adolvera\\source\\repos\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\0d556c07-d333-4c71-acee-a97078062503.PNG",
+      "PackagePath": "staticwebassets\\actores\\0d556c07-d333-4c71-acee-a97078062503.PNG"
+    },
+    {
+      "Id": "C:\\Users\\adolvera\\source\\repos\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\17b5cf9d-e1eb-4714-a1c3-8267bd20b20a.PNG",
+      "PackagePath": "staticwebassets\\actores\\17b5cf9d-e1eb-4714-a1c3-8267bd20b20a.PNG"
+    },
+    {
+      "Id": "C:\\Users\\adolvera\\source\\repos\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\daec7832-6a12-42df-8749-17a7e85b6a08.PNG",
+      "PackagePath": "staticwebassets\\actores\\daec7832-6a12-42df-8749-17a7e85b6a08.PNG"
+    },
+    {
+      "Id": "C:\\Users\\adolvera\\source\\repos\\PeliculasAPI\\PeliculasAPI\\wwwroot\\peliculas\\4634874d-09f4-4b54-9d26-ca982af12e9c.png",
+      "PackagePath": "staticwebassets\\peliculas\\4634874d-09f4-4b54-9d26-ca982af12e9c.png"
+    },
+    {
+      "Id": "C:\\Users\\adolvera\\source\\repos\\PeliculasAPI\\PeliculasAPI\\wwwroot\\peliculas\\620bf82c-5fee-4d36-bee2-8522e37b79ca.png",
+      "PackagePath": "staticwebassets\\peliculas\\620bf82c-5fee-4d36-bee2-8522e37b79ca.png"
+    },
+    {
+      "Id": "C:\\Users\\adolvera\\source\\repos\\PeliculasAPI\\PeliculasAPI\\wwwroot\\peliculas\\f479b0eb-cba8-4776-8c2c-9ec048d4c827.png",
+      "PackagePath": "staticwebassets\\peliculas\\f479b0eb-cba8-4776-8c2c-9ec048d4c827.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PeliculasAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PeliculasAPI.props",
+      "PackagePath": "build\\PeliculasAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PeliculasAPI.props",
+      "PackagePath": "buildMultiTargeting\\PeliculasAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PeliculasAPI.props",
+      "PackagePath": "buildTransitive\\PeliculasAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
